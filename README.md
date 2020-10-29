@@ -17,8 +17,8 @@ A program that reads data and reports:
 Date,Item,Unit Price,Quantity,Total Price
 
 Examples:
-2019-01-01,Vanilla Single Scoop,50,5,250
-2019-01-01,Cake Fudge,150,5,750
+2019-01-01,Vanilla Single Scoop,50,5,250 
+2019-01-01,Cake Fudge,150,5,750 
 2019-01-01,Hot Chocolate Fudge,120,3,360
 
-Note: Program reads input from a CSV file.
+**Note:** Program reads input from a CSV file.
