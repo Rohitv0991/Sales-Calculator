@@ -3,6 +3,7 @@ I created this project which will help an organization to extract uselful inform
 In this project we give the input as a file contianing the sales data. Then the program will read the data and store it.
 After that it will calculate total sales for each month, most selling product, which product generated most revenue and which item is most popular each month.
 In this project I have used data structures like Arraylists and Hashmaps and OOPs concepts.
+**Note:** Program reads input from a CSV file.
 
 ## Working ##
 A program that reads data and reports:
@@ -20,5 +21,3 @@ Examples:<br>
 2019-01-01,Vanilla Single Scoop,50,5,250<br> 
 2019-01-01,Cake Fudge,150,5,750<br>
 2019-01-01,Hot Chocolate Fudge,120,3,360<br>
-
-**Note:** Program reads input from a CSV file.
