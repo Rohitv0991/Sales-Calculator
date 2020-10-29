@@ -16,9 +16,9 @@ A program that reads data and reports:
 ## Input CSV Format ##
 Date,Item,Unit Price,Quantity,Total Price
 
-Examples:
-2019-01-01,Vanilla Single Scoop,50,5,250 
-2019-01-01,Cake Fudge,150,5,750 
-2019-01-01,Hot Chocolate Fudge,120,3,360
+Examples:<br>
+2019-01-01,Vanilla Single Scoop,50,5,250<br> 
+2019-01-01,Cake Fudge,150,5,750<br>
+2019-01-01,Hot Chocolate Fudge,120,3,360<br>
 
 **Note:** Program reads input from a CSV file.
